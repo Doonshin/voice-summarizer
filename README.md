@@ -41,7 +41,7 @@ voice2summarizer/
 ## 1. Clone this repository
 
 ```bash
-git clone <YOUR_REPO_URL>.git
+git clone https://github.com/Doonshin/voice-summarizer.git
 cd voice2summarizer
 ```
 
