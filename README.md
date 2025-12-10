@@ -37,7 +37,10 @@ voice2summarizer/
 - An OpenAI API key
 
 ---
-<img src="images/login.png" width="350"> <img src="images/home.png" width="350"> 
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/login.png" width="350">
+  <img src="images/home.png" width="350">
+</div>
 ## 1. Clone this repository
 
 ```bash
