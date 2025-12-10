@@ -36,11 +36,11 @@ voice2summarizer/
 - A Google Cloud project with Speech-to-Text enabled
 - An OpenAI API key
 
----
+<!-- ---
 <div style="display: flex; justify-content: space-between;">
   <img src="images/login.png" width="350">
   <img src="images/home.png" width="350">
-</div>
+</div> -->
 ## 1. Clone this repository
 
 ```bash
